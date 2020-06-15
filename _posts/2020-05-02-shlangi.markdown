@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "post"
-date:   2020-04-02 23:51:00 +0300
-categories: это
+title:  "Пивные шланги (трубки)"
+date:   2020-05-02 23:51:00 +0300
+categories: пивное оборудование, пивная магистраль
 ---
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your ch
 
