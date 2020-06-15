@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
+Имею более чем 16-летний опыт работы в таких компаниях как Сан Инбев, Корнелиус Украина, Кока-кола Украина.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Не могу смотреть, когда издеваются над пивным оборудованием, а также на прочие извращения монтажа.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Больше хорошего свежего пива вам и вашим клиентам!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ваш Пивной техник.
