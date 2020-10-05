@@ -20,7 +20,7 @@
 
 title: Гид по пивному оборудованию
 email: kegauacom@gmail.com
-description: Secrets # this means to ignore newlines until "baseurl:"
+description: Секреты пивного оборудования от пивного техника # this means to ignore newlines until "baseurl:"
 # Секреты пивного оборудования от пивного техника.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kega-ua.com" # the base hostname & protocol for your site, e.g. http://example.com
